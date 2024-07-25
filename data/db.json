@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My new websites",
+      "body": "welcome to my websites",
+      "author": "Susma",
+      "id": 1
+    },
+    {
+      "title": "My websites 2",
+      "body": "welcome to my websites",
+      "author": "Madan",
+      "id": 2
+    }
+  ]
+}
